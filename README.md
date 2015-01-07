@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is my first repository
+I'm very excited to learn how to become a data scientist!
